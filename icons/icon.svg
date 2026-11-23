@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <!-- full-bleed background; artwork kept inside the central maskable safe zone -->
+  <rect width="512" height="512" fill="#101215"/>
+  <rect x="146" y="96" width="220" height="320" rx="30" fill="#24324a"/>
+  <rect x="146" y="96" width="220" height="320" rx="30" fill="none" stroke="#3a4a66" stroke-width="4"/>
+  <rect x="170" y="122" width="172" height="74" rx="10" fill="#b9c4a4"/>
+  <text x="330" y="180" text-anchor="end" font-family="monospace" font-weight="700" font-size="50" fill="#1c2418">3.14</text>
+  <g fill="#e9e7e2">
+    <rect x="170" y="218" width="44" height="34" rx="8"/><rect x="234" y="218" width="44" height="34" rx="8"/><rect x="298" y="218" width="44" height="34" rx="8" fill="#e8a33a"/>
+    <rect x="170" y="268" width="44" height="34" rx="8"/><rect x="234" y="268" width="44" height="34" rx="8"/><rect x="298" y="268" width="44" height="34" rx="8" fill="#ec6b7a"/>
+    <rect x="170" y="318" width="44" height="34" rx="8"/><rect x="234" y="318" width="44" height="34" rx="8"/><rect x="298" y="318" width="44" height="34" rx="8" fill="#2f7fc4"/>
+    <rect x="170" y="364" width="172" height="28" rx="8" fill="#d2603e"/>
+  </g>
+</svg>
